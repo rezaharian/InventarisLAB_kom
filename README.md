@@ -1,8 +1,7 @@
 
 
 ## Demo Program
-https://inventaris.rezaharian.site/
-
+https://inv.zdev.my.id/
 ## Other
 Boostrap <br>
 Bautyalert
